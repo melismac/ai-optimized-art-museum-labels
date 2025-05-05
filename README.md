@@ -11,7 +11,7 @@ In this repository you can find:
 
 
 ## Case-study
-This case-study concerns the following artworks preserved in the Flemish section of Galleria Sabauda.
+This case-study concerns the interpreative labels of the following artworks preserved in the Flemish section of Galleria Sabauda.
 * Peter Paul Rubens, Susanna and the Elders, 1628.
 * Peter Paul Rubens, Hercules in the Garden of the Hesperides, post 1638.
 * Peter Paul Rubens, Deianira Tempted by Fury 
