@@ -8,3 +8,5 @@ In this repository you can find:
 * all tests results: a  csv table with all models'answers for each optimization of artworks' labels correlated with prompt, model, technique used and datetime.
 * a folder on Evalutation phase with evaluation grid template, instruction to evaluate, all evaluations and analysis of results
 * musem sources: a folder with the materials provided by the museum.
+
+This study is part of the Melissa Macaluso's PhD Project "Generative AI for Museum Communication: Innovating On-site Museum Experiences through LLM-Generated Narratives" (PhD program in Heritage Science - La Sapienza Università di Roma - Università di Torino.
