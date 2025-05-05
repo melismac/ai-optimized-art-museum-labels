@@ -10,4 +10,13 @@ In this repository you can find:
 * a folder on Evalutation phase with evaluation grid template, instruction to evaluate, all evaluations and analysis of results
 
 
+## Case-study
+This case-study concerns the following artworks preserved in the Flemish section of Galleria Sabauda.
+* Peter Paul Rubens, Susanna and the Elders, 1628.
+* Peter Paul Rubens, Hercules in the Garden of the Hesperides, post 1638.
+* Peter Paul Rubens, Deianira Tempted by Fury 
+* Antoon Van Dyck, The Children of Charles I of England, 1635.
+* Antoon Van Dyck, Equestrian Portrait of Prince Thomas of Savoy-Carignano, 1634.
+
 This study is part of the Melissa Macaluso's PhD Project "Generative AI for Museum Communication: Innovating On-site Museum Experiences through LLM-Generated Narratives" (PhD program in Heritage Science - La Sapienza Università di Roma - Università di Torino - Supevisor: Paola Pisano; cotutors: Enrico Mensa, Anna Maria Marras)
+
