@@ -1,4 +1,4 @@
-# ai-optimized-art-museum-labels at Galleria Sabauda, Turin Royal Museums
+# AI-optimized art museum labels at Galleria Sabauda, Turin Royal Museums
 
 This experiment examines how Large Language Models (LLMs) can be applied to optimize art museum labels to meet specific cultural accessibility needs and ministerial guidelines and best practices in matters of exhibit texts redaction. The paper  illustrates the first results of an experiment on optimizing the current labels of the Flemish section of the Galleria Sabauda in Turin. 
 The study tests three state-of-art- LLMs, GPT4.o mini, Claude 3.7 and DeepSeek V-3, according to three different few-shot prompting techniques and provides an evaluation grid is to assess the performance of LLMs in this rewriting task considering both content optimization and readability and formatting aspects.
