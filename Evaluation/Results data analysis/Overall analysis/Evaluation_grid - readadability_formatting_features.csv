@@ -1,0 +1,10 @@
+Model,Technique,AVG of Overall Length,AVG of Text Structure,AVG of Sentence Simplicity,AVG of Simple Syntax,AVG of Technical Terms ,AVG of Readability and formatting
+ GPT 4.0 Mini,0-shot,2,2,2,1,1.8,1.76
+,1-shot,2,2,2,1.6,1.6,1.84
+,1-shot + annotation,2,2,2,1.8,1.8,1.92
+Claude 3.7,0-shot,1.6,2,2,1.8,1.8,1.84
+,1-shot,1.4,2,1.8,1.8,1.6,1.72
+,1-shot + annotation,1,2,2,1.8,1.8,1.72
+DeepSeek V-3,0-shot,1.8,2,1.8,2,2,1.92
+,1-shot,1.6,2,1.8,2,1.8,1.84
+,1-shot + annotation,1.4,2,1.6,2,1.8,1.76

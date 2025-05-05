@@ -1,0 +1,10 @@
+Model,Technique,AVG of Completeness,AVG of Hallucinations and biases,AVG of Logical Progression,AVG of Overall Content Optimization 
+ GPT 4.0 Mini,0-shot,1.60,1.00,1.60,1.40
+,1-shot,1.00,1.20,1.80,1.33
+,1-shot + annotation,1.00,1.20,1.80,1.33
+Claude 3.7,0-shot,1.80,1.20,1.60,1.53
+,1-shot,1.60,1.20,1.60,1.47
+,1-shot + annotation,1.80,1.60,1.60,1.67
+DeepSeek V-3,0-shot,1.40,1.00,1.40,1.27
+,1-shot,1.40,1.60,1.00,1.33
+,1-shot + annotation,1.40,1.20,1.20,1.27

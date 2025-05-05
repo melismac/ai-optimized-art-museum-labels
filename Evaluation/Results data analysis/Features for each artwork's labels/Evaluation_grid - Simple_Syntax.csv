@@ -1,0 +1,9 @@
+"AVERAGE of Simple Syntax (avoid subordinates, spoken-like language, one concept per sentence, related info proximity, direct questions)",Model,Technique,,,,,,,
+, GPT 4.0 Mini,,,Claude 3.7,,,DeepSeek V-3,,
+Artwork,0-shot,1-shot,1-shot + annotation,0-shot,1-shot,1-shot + annotation,0-shot,1-shot,1-shot + annotation
+"Deianira Tempted by Fury, Peter Paul Rubens ",1.00,1.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00
+"Equestrian Portrait of Prince Thomas of Savoy-Carignano, Antoon Van Dyck",1.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00
+"Hercules in the Garden of the Hesperides, Peter Paul Rubens",1.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00
+"Susanna and the Elders, Peter Paul Rubens",1.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00,2.00
+"The Children of Charles I of England, Antoon Van Dyck ",1.00,1.00,1.00,1.00,1.00,1.00,2.00,2.00,2.00
+Grand Total,1.00,1.60,1.80,1.80,1.80,1.80,2.00,2.00,2.00
