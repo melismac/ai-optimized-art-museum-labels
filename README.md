@@ -9,4 +9,4 @@ In this repository you can find:
 * a folder on Evalutation phase with evaluation grid template, instruction to evaluate, all evaluations and analysis of results
 * musem sources: a folder with the materials provided by the museum.
 
-This study is part of the Melissa Macaluso's PhD Project "Generative AI for Museum Communication: Innovating On-site Museum Experiences through LLM-Generated Narratives" (PhD program in Heritage Science - La Sapienza Università di Roma - Università di Torino.
+This study is part of the Melissa Macaluso's PhD Project "Generative AI for Museum Communication: Innovating On-site Museum Experiences through LLM-Generated Narratives" (PhD program in Heritage Science - La Sapienza Università di Roma - Università di Torino - Supevisor: Paola Pisano, cotutors: Enrico Mensa, Anna Maria Marras)
