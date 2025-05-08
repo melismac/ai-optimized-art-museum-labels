@@ -18,5 +18,4 @@ This case-study concerns the interpreative labels of the following artworks pres
 * Antoon Van Dyck, The Children of Charles I of England, 1635.
 * Antoon Van Dyck, Equestrian Portrait of Prince Thomas of Savoy-Carignano, 1634.
 
-This study is part of the Melissa Macaluso's PhD Project "Generative AI for Museum Communication: Innovating On-site Museum Experiences through LLM-Generated Narratives" (PhD program in Heritage Science - La Sapienza Università di Roma - Università di Torino - Supevisor: Paola Pisano; cotutors: Enrico Mensa, Anna Maria Marras)
 
