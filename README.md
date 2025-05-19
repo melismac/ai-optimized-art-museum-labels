@@ -5,9 +5,11 @@ The study tests three state-of-art- LLMs, GPT4.o mini, Claude 3.7 and DeepSeek V
 
 In this repository you can find:
 * current original labels displayed in the Flemish section of Galleria Sabauda.
+* artworks'images.
 * prompts: all prompts employed for each artwork's label optimization with 3 techniques employed - 0-shot prompting, 1-shot prompting and 1-annotated shot prompting. Moreover, in this folder you can fin also the two human-optimized examples employed for few-shot techniques.
 * all tests results: a  csv table with all models'answers for each optimization of artworks' labels correlated with prompt, model, technique used and datetime.
 * a folder on Evalutation phase with evaluation grid template, instruction to evaluate, all evaluations and analysis of results
+  
 
 
 ## Case-study
