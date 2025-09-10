@@ -9,7 +9,7 @@ In this repository you can find:
 * prompts: all prompts employed for each artwork's label optimization with 3 techniques employed - 0-shot prompting, 1-shot prompting and 1-annotated shot prompting. Moreover, in this folder you can fin also the two human-optimized examples employed for few-shot techniques.
 * all tests results: a  csv table with all models'answers for each optimization of artworks' labels correlated with prompt, model, technique used and datetime.
 * a folder on Evalutation phase with evaluation grid template, instruction to evaluate, all evaluations and analysis of results
-* all tests (prompts + answers) are in Italian, but an it is provided an English example of prompt and answer. All the other materials (Evaluation grid, instructions for evaluation, analysis of results) are in English.
+* all tests (prompts + answers) are in Italian, but it is provided an English example of prompt and answer. All the other materials (Evaluation grid, instructions for evaluation, analysis of results) are in English.
 
   
 
